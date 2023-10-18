@@ -1,4 +1,4 @@
-# NG.CASH - FullStack
+# NG.CASH - FullStack (Deprecated / Faria diferente atualmente :D)
 
 ### Desafio:
 
